@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+
+<body style="background-image: linear-gradient(to right, #00ff00, #ffff00)">
+
+<img src="itishom.png" alt="itishom" class="center">
+
+<a href="file:///D:/Informatika/html/Web%20Buah/Home.html">START</a>
+
+</body>
+</html>
